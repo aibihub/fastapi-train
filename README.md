@@ -5,3 +5,9 @@ FastAPI系列学习
 2.开发表单
 3.测试
 4.websocket 开发
+
+www
+
+auth
+
+openai
